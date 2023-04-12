@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @farukadewale
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning ui/ux design
-- 💞️ I’m looking to collaborate on design
+- 👀 I’m a product designer
+- 💞️ I’m looking to collaborate on design projects
 - 📫 How to reach me @farukadewale_ on instagram and twitter
 
 <!---
